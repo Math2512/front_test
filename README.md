@@ -1,5 +1,8 @@
-# d-watch
+# TEST FRONT
+### Techno VueJs avec Framework NuxtJS
 
+## /!\ IMPORTANT
+Change your localhost to test
 ## Build Setup
 
 ```bash
